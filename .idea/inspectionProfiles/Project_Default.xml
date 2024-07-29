@@ -1,0 +1,56 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="7">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="html" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="19">
+            <item index="0" class="java.lang.String" itemvalue="webbrowser" />
+            <item index="1" class="java.lang.String" itemvalue="random" />
+            <item index="2" class="java.lang.String" itemvalue="speech_recognition" />
+            <item index="3" class="java.lang.String" itemvalue="pyYAML" />
+            <item index="4" class="java.lang.String" itemvalue="python-box" />
+            <item index="5" class="java.lang.String" itemvalue="ensure" />
+            <item index="6" class="java.lang.String" itemvalue="joblib" />
+            <item index="7" class="java.lang.String" itemvalue="Flask-Cors" />
+            <item index="8" class="java.lang.String" itemvalue="scikit-learn" />
+            <item index="9" class="java.lang.String" itemvalue="types-PyYAML" />
+            <item index="10" class="java.lang.String" itemvalue="numpy" />
+            <item index="11" class="java.lang.String" itemvalue="mlflow" />
+            <item index="12" class="java.lang.String" itemvalue="pandas" />
+            <item index="13" class="java.lang.String" itemvalue="tqdm" />
+            <item index="14" class="java.lang.String" itemvalue="matplotlib" />
+            <item index="15" class="java.lang.String" itemvalue="notebook" />
+            <item index="16" class="java.lang.String" itemvalue="Flask" />
+            <item index="17" class="java.lang.String" itemvalue="dvc" />
+            <item index="18" class="java.lang.String" itemvalue="matplotliib" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="bool.astype" />
+          <option value="tensorflow.keras" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
